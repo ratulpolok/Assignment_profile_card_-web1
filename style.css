@@ -1,4 +1,4 @@
-/* ----- Base Reset ----- */
+ 
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* ----- Card Container ----- */
+ 
 .profile-card {
   max-width: 320px;
   width: 100%;
@@ -24,8 +24,7 @@ body {
   padding: 32px 24px;
   text-align: center;
 }
-
-/* ----- Avatar ----- */
+ 
 .avatar {
   width: 100px;
   height: 100px;
@@ -35,8 +34,7 @@ body {
   display: block;
   border: 3px solid #eef1f5;
 }
-
-/* ----- Typography ----- */
+ 
 .name {
   font-size: 1.4rem;
   font-weight: 700;
@@ -50,8 +48,7 @@ body {
   color: #6b7280;
   margin-bottom: 20px;
 }
-
-/* ----- Stats Section ----- */
+ 
 .stats {
   margin-bottom: 24px;
 }
@@ -74,7 +71,7 @@ body {
   color: #1a1a1a;
 }
 
-/* ----- Follow Button ----- */
+ 
 .follow-btn {
   background-color: #2563eb;
   color: #ffffff;
